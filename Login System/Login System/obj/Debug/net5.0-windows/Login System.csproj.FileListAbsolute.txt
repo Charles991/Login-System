@@ -1,0 +1,36 @@
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login_System.Form1.resources
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.csproj.GenerateResource.cache
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.AssemblyInfo.cs
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\Login System.exe
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\Login System.deps.json
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\Login System.runtimeconfig.json
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\Login System.runtimeconfig.dev.json
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\Login System.dll
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\ref\Login System.dll
+C:\Users\Charles\Documents\Repos\Login System\Login System\bin\Debug\net5.0-windows\Login System.pdb
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.dll
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\ref\Login System.dll
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.pdb
+C:\Users\Charles\Documents\Repos\Login System\Login System\obj\Debug\net5.0-windows\Login System.genruntimeconfig.cache
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\Login System.exe
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\Login System.deps.json
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\Login System.runtimeconfig.json
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\Login System.runtimeconfig.dev.json
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\Login System.dll
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\ref\Login System.dll
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\bin\Debug\net5.0-windows\Login System.pdb
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login_System.Form1.resources
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.csproj.GenerateResource.cache
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.AssemblyInfo.cs
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.dll
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\ref\Login System.dll
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.pdb
+C:\Users\Charles\Documents\Visual Studio 2022\Login System\Login System\obj\Debug\net5.0-windows\Login System.genruntimeconfig.cache
